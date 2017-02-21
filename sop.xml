@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sop>
+   <intro>
+       In this guide, you’ll get all the necessary information to find, enroll, 
+       and pay for classes for Winter and Summer semesters at Virginia Tech.     
+   </intro> 
+    
+    <preliminaryinfo>
+        In order to enroll in classes for any term at Virginia Tech, you will need a PID, password, and Virginia Tech email account. A PID login and email should have been provided to you following your acceptance. If you do not have a PID or Tech email,
+        call the school number at (540) 231-6000 and you will be redirected accordingly.
+        In order to enroll in classes for any term at Virginia Tech, you will need a PID, password, and Virginia Tech email account. A PID login and email should have been provided to you following your acceptance. If you do not have a PID or Tech email, call the school number at (540) 231-6000 and
+        you will be redirected accordingly.
+        
+        </prelimaryinfo>
+    
+    
+    <sessions>
+        <session>
+            <url>summer.html </url>
+            <sessiontitle>Summer Sessions at Virginia Tech</sessiontitle>
+            <welcome>This is Summer!!!!</welcome>
+            <task>
+                <tasktitle></tasktitle>
+            
+            <staging></staging>
+            <ingredients>
+                <item> A computer</item>
+                
+            </ingredients>
+            
+            <steps>
+              <action>Do this!</action>  
+                <note>Additional information</note>
+            </steps>
+            <summary></summary>
+            </task>
+        </session>
+    </sessions>
+    
+    <sessions>
+        <session>
+            <url>winter.html </url>
+            <sessiontitle>Winter Sessions at Virginia Tech</sessiontitle>
+            <welcome></welcome>
+            <task></task>
+        </session>
+    </sessions>
+    
+</sop>
